@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main()
+
 {
     float lenght,width;
     printf("請輸入長方形的長寬，並以空白為間格:");
