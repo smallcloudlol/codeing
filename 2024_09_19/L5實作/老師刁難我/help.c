@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,3 +25,6 @@ int main()
 
     return 0;
 }
+=======
+被升哥封印了
+>>>>>>> f4594ce8bc8423b15bfd1e58174234d718bd7652
