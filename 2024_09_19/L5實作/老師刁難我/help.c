@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -6,7 +5,7 @@ int main()
 
 {
     int a,b,c,smcl;
-    printf("¿é¤JA B C ¤T¼Æ:");
+    printf("ï¿½ï¿½JA B C ï¿½Tï¿½ï¿½:");
     scanf("%d%d%d",&a,&b,&c);
 
     if (a<c)
@@ -25,6 +24,3 @@ int main()
 
     return 0;
 }
-=======
-è¢«å‡å“¥å°å°äº†
->>>>>>> f4594ce8bc8423b15bfd1e58174234d718bd7652
